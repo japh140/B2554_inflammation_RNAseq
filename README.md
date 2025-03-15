@@ -10,7 +10,7 @@ This project explores bulk and single-cell RNA-seq data from public databases (e
 ## 🧪 Objectives  
 - Download and organize RNA-seq data
 - Perform quality control and preprocessing
-- Normalize, filter, and correct for batch effects
+- Normalise, filter, and correct for batch effects
 - Run differential gene expression (DGE) analysis
 - Conduct pathway and enrichment analysis
 - Apply machine learning for disease classification
