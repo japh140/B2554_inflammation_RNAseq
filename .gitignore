@@ -172,3 +172,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore raw and processed data files
+data/raw/*
+data/processed/*
+
+# Ignore large file types
+*.fastq
+*.fq
+*.bam
+*.sam
+*.gz
+*.zip
+*.tar.gz
+
+# Ignore unnecessary system files
+.DS_Store
