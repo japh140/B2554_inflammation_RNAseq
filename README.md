@@ -9,8 +9,6 @@ This project explores bulk and single-cell RNA-seq data from public databases (e
 
 …to identify dysregulated resolution mechanisms in inflammatory diseases, with a primary focus on osteoarthritis (OA) and potential comparative analysis of cardiovascular disease or sickle cell disease if time permits."
 
-That’s all you need for now. You don’t have to rewrite the entire README — just reflect your updated scope so it matches the direction you're taking.
-
 
 ## 🧪 Objectives  
 - Download and organise RNA-seq data
