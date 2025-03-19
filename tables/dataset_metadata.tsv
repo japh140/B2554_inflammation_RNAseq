@@ -1,0 +1,2 @@
+Dataset_Accession	Disease	Tissue_Type	Platform	Paired_End	Replicates	Covariates	Source	Notes
+GSE_PLACEHOLDER	Atherosclerosis	Carotid Artery	Illumina HiSeq	Yes	10	Age, Sex, Ethnicity	https://www.ncbi.nlm.nih.gov/geo/	Placeholder until Phase 2
