@@ -7,6 +7,9 @@ Investigating dysregulated resolution mechanisms in inflammatory diseases using 
 ## 🔍 Overview  
 This project explores bulk and single-cell RNA-seq data from public databases (e.g., GEO) to identify dysregulated resolution mechanisms in inflammatory diseases like rheumatoid arthritis and cardiovascular disease. It combines RNA-seq analysis with machine learning for classification and feature selection.
 
+…to identify dysregulated resolution mechanisms in inflammatory diseases, with a primary focus on osteoarthritis (OA) and potential comparative analysis of cardiovascular disease or sickle cell disease if time permits."
+
+
 ## 🧪 Objectives  
 - Download and organise RNA-seq data
 - Perform quality control and preprocessing
