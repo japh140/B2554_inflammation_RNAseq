@@ -188,3 +188,8 @@ data/processed/*
 
 # Ignore unnecessary system files
 .DS_Store
+# Ignore test job files and temporary folders
+logs/
+data/
+HPC_scripts/fastqc_test.sh
+
